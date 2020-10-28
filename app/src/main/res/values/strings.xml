@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cocktail Guide</string>
+
+    <string name="bottom_menu_item_favourites">Favourites</string>
+    <string name="bottom_menu_item_categories">Categories</string>
+    <string name="bottom_menu_item_search">Search</string>
+
+    <string name="cocktail">Cocktail</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">"Material is the metaphor."</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="open_random_cocktails">Open random cocktails</string>
+    <string name="internet_error">Connection error!</string>
+    <string name="retry">Retry</string>
+
+    <string name="param_drink_description">Description: %1$s</string>
+    <string name="param_drink_type">Type: %1$s</string>
+    <string name="param_drink_glass">Glass: %1$s</string>
+    <string name="param_empty">Empty</string>
+    <string name="empty_list">List is empty!</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="start">Start</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

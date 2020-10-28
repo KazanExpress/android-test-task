@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_menu_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/bottom_menu_item_search" />
+
+    <item
+        android:id="@+id/bottom_menu_categories"
+        android:icon="@drawable/ic_baseline_category_24"
+        android:title="@string/bottom_menu_item_categories" />
+
+    <item
+        android:id="@+id/bottom_menu_favourites"
+        android:icon="@drawable/ic_baseline_star_rate_24"
+        android:title="@string/bottom_menu_item_favourites" />
+
+</menu>

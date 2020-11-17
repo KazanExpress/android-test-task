@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">android-test-task</string>
+    <string name="btn_find_text">Поиск</string>
+    <string name="povtor">Повтор</string>
+    <string name="name">Имя: </string>
+    <string name="id">ID: </string>
+    <string name="cat">Категория: </string>
+    <string name="type">Тип: </string>
+    <string name="glass">Тип стакана: </string>
+    <string name="Skip">Пропустить</string>
+    <string name="not_found">Извините, коктейль не найден</string>
+    <string name="et_fint_hint">Введите название коктейля</string>
+</resources>
